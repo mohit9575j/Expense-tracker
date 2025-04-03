@@ -26,7 +26,7 @@ Users can save their expenses in **local storage**, ensuring data persistence ev
 
 ## 📸 Screenshots  
 ### 🖥 Web Page Example  
-![Expense Tracker UI](https://via.placeholder.com/800x400?text=Expense+Tracker+UI)  
+![Expense Tracker UI]([https://via.placeholder.com/800x400?text=Expense+Tracker+UI](https://github.com/mohit9575j/Expense-tracker/blob/main/assets/Expense-Tracker-04-03-2025_01_14_PM.png?raw=true))  
 >   
 
 ---
